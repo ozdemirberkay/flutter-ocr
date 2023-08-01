@@ -28,11 +28,8 @@ Run the app:
 flutter run 
 ```
 ## Samples
-
-  <tr>
-    <td><img src="![Screenshot_1690895769](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/2dd0a210-4ebd-4c23-a9a9-3ce198d010bb)" width=270 height=480></td>
-    <td><img src="![Screenshot_1690895861](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/c908ae72-7fcd-4a8f-a611-5417d57efb7d)" width=270 height=480></td>
-  </tr>
+![ocr1](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/149dcb7d-5daf-42f9-8827-8f771477984f)
+![ocr2](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/9e1d2104-f35d-47ba-acc6-f6337d46747f)
 
 
 
