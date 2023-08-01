@@ -9,7 +9,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  int bodyIndex = 1;
+  int bodyIndex = 0;
 
   Widget bodyBuilder() {
     if (bodyIndex == 0) {
