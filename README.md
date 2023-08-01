@@ -29,5 +29,10 @@ flutter run
 ```
 ## Samples
 
-![Screenshot_1690895861](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/c908ae72-7fcd-4a8f-a611-5417d57efb7d)
-![Screenshot_1690895769](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/2dd0a210-4ebd-4c23-a9a9-3ce198d010bb)
+  <tr>
+    <td><img src="![Screenshot_1690895769](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/2dd0a210-4ebd-4c23-a9a9-3ce198d010bb)" width=270 height=480></td>
+    <td><img src="![Screenshot_1690895861](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/c908ae72-7fcd-4a8f-a611-5417d57efb7d)" width=270 height=480></td>
+  </tr>
+
+
+
