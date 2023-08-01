@@ -22,8 +22,12 @@ flutter pub get
 
 **Step 3:**
 
-Run the app
+Run the app:
 
 ```
 flutter run 
 ```
+## Samples
+
+![Screenshot_1690895861](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/c908ae72-7fcd-4a8f-a611-5417d57efb7d)
+![Screenshot_1690895769](https://github.com/ozdemirberkay/flutter-ocr/assets/55758394/2dd0a210-4ebd-4c23-a9a9-3ce198d010bb)
